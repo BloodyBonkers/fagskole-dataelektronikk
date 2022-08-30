@@ -1,10 +1,9 @@
 // C++ code
 //
-int LED_PIN1 = 1
-int LED_PIN2 = 2
-int LED_PIN3 = 3
-int LED_PIN4 = 4
-int LED_PIN5 = 5
+int LED_PIN1 = 1, LED_PIN2 = 2,
+    LED_PIN3 = 3
+    LED_PIN4 = 4
+    LED_PIN5 = 5
 
 void setup()
 {
